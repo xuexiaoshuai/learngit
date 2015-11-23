@@ -6,3 +6,5 @@ Git is a distributed version control system.
 #include <string>
 
 hello world
+
+add a new branch is quick
