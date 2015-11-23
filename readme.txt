@@ -8,3 +8,5 @@ Git is a distributed version control system.
 hello world
 
 add a new branch is quick and  simple
+
+--no-ff:no fast forward
