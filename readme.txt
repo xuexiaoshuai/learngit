@@ -10,3 +10,5 @@ hello world
 add a aaaaaa new branch is quick and  simple
 
 --no-ff:no fast forward
+
+mutility develop
